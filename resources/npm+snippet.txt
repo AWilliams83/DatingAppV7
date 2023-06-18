@@ -1,0 +1,1 @@
+npm install @microsoft/signalr@latest @types/jasmine@latest @types/jasminewd2@latest @types/node@latest codelyzer@latest jasmine-core@latest jasmine-spec-reporter@latest karma-jasmine-html-reporter@latest ngx-bootstrap@latest ngx-spinner@latest ngx-timeago@latest ngx-toastr@latest rxjs@latest ts-node@latest tslib@latest bootstrap@4.6.1 bootswatch@4.6.1 --force
